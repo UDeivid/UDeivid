@@ -8,8 +8,6 @@ I am a technology enthusiast with a solid background in Technical Support (Help 
 
 🛠️ Systems and Infrastructure Technologies and Tools: Active Directory administration, Microsoft Azure, SharePoint, and Office 365. Networking and Security: VPN configuration (Cisco and FortiClient), DHCP and DNS servers.
 
-Translated with DeepL.com (free version)
-
 * 🌍  I'm based in Braga
 * ✉️  You can contact me at [jeandeivid644@gmail.com](mailto:jeandeivid644@gmail.com)
 * 🧠  I'm currently learning Modern Web Technologies (JS/React) and Backend Automation with Python
